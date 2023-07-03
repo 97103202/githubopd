@@ -1,0 +1,2 @@
+$reward = pow(10, $points);
+echo "You won \${$reward}!\n";
